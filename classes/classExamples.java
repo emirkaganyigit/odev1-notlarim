@@ -1,3 +1,4 @@
+package classes;
 public class classExamples {
     int x = 5;
     final int y = 3;

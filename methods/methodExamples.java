@@ -1,3 +1,4 @@
+package methods;
 public class methodExamples {
     public static void main(String [] args){
         myMethod("Emir", 21);

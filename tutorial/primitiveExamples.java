@@ -1,3 +1,4 @@
+package tutorial;
 //Java'da 8 temel veri tipi (primitive type) vardır:
 
 //Tam Sayılar: byte, short, int, long

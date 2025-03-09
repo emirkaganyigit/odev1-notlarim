@@ -1,3 +1,4 @@
+package methods;
 public class recursionExamples {
     public static void main(String[] args) {
         int z= sumMethod(10);

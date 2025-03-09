@@ -1,3 +1,4 @@
+package tutorial;
 /*
 Widening Casting (automatically) - converting a smaller type to a larger type size
 byte -> short -> char -> int -> long -> float -> double

@@ -1,3 +1,4 @@
+package tutorial;
 public class switchExamples {
     public static void main(String[] args) {
         int day = 5;

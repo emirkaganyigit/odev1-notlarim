@@ -1,3 +1,4 @@
+package tutorial;
 public class stringExamples {
     public static void main(String[] args){
         //String greeting = "Hello";
